@@ -90,12 +90,3 @@ API_KEY can be obtained on https://toncenter.com or https://testnet.toncenter.co
 - TON balance of an expired order can be returned to multisig. To do this, the order must collect enough approvals - it will be sent for execution, there will be no execution, but the TONs will be returned to the multisig.
 
 - `approve_accepted` auxiliary notification is not sent if the order is initialized and executed immediately (approve_on_init with threshold = 1).
-
-## Security
-
-The multisig contract has been created by TON Core team and audited by security companies:
-
-- Zellic: [Audit Report](https://github.com/ton-blockchain/multisig-contract-v2/blob/master/audits/Multisig_Zellic_Audit_Report.pdf)
-- Trail of Bits: [Audit Report](https://github.com/ton-blockchain/multisig-contract-v2/blob/master/audits/202403TON_Foundation_Multisignature_Wallet_Report_%2B_Fix_Review.pdf)
-
-Feel free to review these reports for a detailed understanding of the contract's security measures.
